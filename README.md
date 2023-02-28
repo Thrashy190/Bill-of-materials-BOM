@@ -1,1 +1,1 @@
-# Bill-of-materials-BOM
+# Bill of Material (BOM)
